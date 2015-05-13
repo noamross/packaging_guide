@@ -7,6 +7,7 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 * [Package naming](#pkgnaming)
 * [Function/variable naming](#funvar)
 * [README](#rme)
+* [Code of Conduct](#conduct)
 * [Documentation](#docs)
 * [Package dependencies](#deps)
 * [Testing](#testing)
@@ -52,6 +53,9 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 * See the [gistr README](https://github.com/ropensci/gistr#gistr) for a good example README to follow.
 
+## <a href="#conduct" name="conduct"></a> Code of Conduct
+
+* We recommend following a code of conduct such as the [Contributor Covenant](http://contributor-covenant.org/) in developing your project, and documenting in with a `CODE_OF_CONDUCT.md` or `CONDUCT.md` file.  You can document using the covenant in your package with `devtools::use_code_of_conduct()`, and may also  link to it in the README file and project home page.
 
 ## <a href="#docs" name="docs"></a> Documentation
 
